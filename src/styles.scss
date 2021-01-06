@@ -1,0 +1,10 @@
+@import 'variables.scss';
+
+body {
+  background: $bgColor;
+
+  h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+}
